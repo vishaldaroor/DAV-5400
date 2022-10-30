@@ -1,0 +1,23 @@
+[
+    {
+        "book_title": "Python Cookbook",
+        "book_author": "David Beazley, Brian K. Jones",
+        "published_year": "2011",
+        "publisher_name": "O'Reilly Media, Inc.",
+        "pages":1392
+    },
+    {
+        "book_title": "Hadoop with Python",
+        "book_author": "Zachary Radtka, Donald Miner",
+        "published_year": "2015",
+        "publisher_name": "O'Reilly Media, Inc.",
+        "pages": 71
+    },
+    {
+        "book_title": "The Data Science Book",
+        "book_author": "Henry Wang, William Chen,Carl Shan Max, Max Song",
+        "published_year": "2015",
+        "publisher_name": "Data Science Bookshelf",
+        "pages": 250
+    }
+]
